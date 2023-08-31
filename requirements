@@ -9,9 +9,4 @@ SQLAlchemy==1.4.15
 Werkzeug==2.0.1
 
 
-pip install --upgrade pip
 
-pip install -r requirements
-cd flask
-
-Flask run
